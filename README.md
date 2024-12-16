@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Copy `.env` file`
+
+```
+REACT_APP_API_URL=http://localhost:4000
+```
+
 ### `npm start`
 
 Runs the app in the development mode.\
